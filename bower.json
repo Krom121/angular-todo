@@ -1,0 +1,22 @@
+{
+  "name": "angular-todo",
+  "description": "angular stream 1 challange",
+  "main": "index.js",
+  "authors": [
+    "Stephen Macgregor"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Krom121/angular-todo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.6",
+    "angular-route": "^1.6.6"
+  }
+}
